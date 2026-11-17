@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ro — Assistente pessoal</string>
+    <string name="notification_channel_name">Avisos da Ro</string>
+    <string name="notification_channel_description">Avisos de mensagens de contatos que você autorizou</string>
+</resources>
